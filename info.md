@@ -7,3 +7,5 @@
 > git add - добавили команду git add
 
 > git push - добавили команду git push
+
+> test
